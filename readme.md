@@ -8,9 +8,9 @@ Este relatório tem como objetivo calcular a quantidade mínima de pontos de red
 
 ## 1. ** Área: 11 m²**
    - **Cálculo da quantidade mínima de pontos**:  
-     \[
+     \
      \frac{11}{10} = 1,1 \, \text{pontos} \quad \Rightarrow \quad 2 \, \text{pontos (arredondado)}.
-     \]
+     \
 
    - **Cálculo da reserva técnica (20%)**:  
      \[
